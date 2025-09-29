@@ -43,7 +43,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinatech&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 </div><br>
-<div style="display: flex; gap: 1px; align-items: flex-start;">
+<div align="center">
 
 <img src="https://media.tenor.com/S61VCO73mOAAAAAm/linux-tux.webp" height="100">
 <img src="https://media1.tenor.com/m/X1KUALzNPbQAAAAC/captain-price-price-call-of-duty.gif" height="100">
