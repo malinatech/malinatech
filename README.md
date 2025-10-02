@@ -37,6 +37,7 @@
 <p>me code + mage</p>
 </div>
 
+
 <hr>
 
 <div align="center">
@@ -48,8 +49,6 @@
 <img src="https://media.tenor.com/S61VCO73mOAAAAAm/linux-tux.webp" height="100">
 <img src="https://media1.tenor.com/m/X1KUALzNPbQAAAAC/captain-price-price-call-of-duty.gif" height="100">
 <img src="https://media.tenor.com/nMeWKk4-E8IAAAAi/glitterypopcorn-wizard.gif" height="100">
-
-<img src="https://media1.tenor.com/m/rc_G8lNUKh8AAAAd/sono-hanabira-ni-kuchizuke-wo-anime.gif" height="100">
 <img src="https://media.tenor.com/EclV-rVOOb4AAAAm/minecraft-minecraft-meme.webp" height="100">
 <img src="https://media.tenor.com/iwI1PfFSZG0AAAAM/skyrim-giant.gif" height="100">
 
