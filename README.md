@@ -8,7 +8,7 @@
 ██    ██    ██    ██████  ██  ██  ██    ██    ██████      ████    ██████    ██████  ██    ██  
 </pre>
 
-<p>Haiii, my name is Alina and i love C, <br>assembly, les Debian, openBSD, servers and rpi's :3 </p>
+<p>Haiii i love C, <br>assembly, les Debian, openBSD, servers and rpi's :3 </p>
 <img height="200px" src="https://media.tenor.com/KcIBTips1H8AAAAi/azumanga-daioh-osaka.gif" alt="Fan" align="center">
 </div>
 
