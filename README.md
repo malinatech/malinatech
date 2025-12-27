@@ -20,10 +20,7 @@
 </a>
 </p>
 
-<p>twitter > <a href="https://x.com/nyaalinacore">
- @nyaalinacore
-</a>
-</p>
+
 
 <p>youtube > <a href="https://www.youtube.com/@nyaalinaverse">
  @nyaalinaverse
@@ -56,6 +53,4 @@
 
 </div>
 <br><br>
-<div align="center">
-<p>hope you like this page, you can buy me a coffe on my ko-fi :3 </p>
-<a href="https://ko-fi.com/alinablushy">https://ko-fi.com/alinablushy</a></div>
+
