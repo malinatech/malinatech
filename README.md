@@ -8,24 +8,16 @@
 ██    ██    ██    ██████  ██  ██  ██    ██    ██████      ████    ██████    ██████  ██    ██  
 </pre>
 
-<p>Haiii i love C, <br>assembly, les Debian, openBSD, servers and rpi's :3 </p>
+<p>Me i love C, <br>assembly, Debian, OpenBSD, servers and rpi </p>
 <img height="200px" src="https://media.tenor.com/KcIBTips1H8AAAAi/azumanga-daioh-osaka.gif" alt="Fan" align="center">
 </div>
 
 <div align="center">
-<hr>
-<h3>My Links :3</h3>
-<p>malinatech webiste > <a href="https://malinatech.github.io">
- https://malinatech.github.io
-</a>
-</p>
 
 
 
-<p>youtube > <a href="https://www.youtube.com/@nyaalinaverse">
- @nyaalinaverse
-</a>
-</p>
+
+
 
 <hr>
 </div>
@@ -36,9 +28,6 @@
 
 
 <hr>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinatech&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 </div><br>
 <div align="center">
