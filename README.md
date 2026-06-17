@@ -8,18 +8,10 @@
 ██    ██    ██    ██████  ██  ██  ██    ██    ██████      ████    ██████    ██████  ██    ██  
 </pre>
 
-<p>Me i love C, <br>assembly, Debian, OpenBSD, servers and rpi </p>
-<img height="200px" src="https://media.tenor.com/KcIBTips1H8AAAAi/azumanga-daioh-osaka.gif" alt="Fan" align="center">
 </div>
 
 <div align="center">
 
-
-
-
-
-
-<hr>
 </div>
 <div align="center">
 <img src="https://media1.tenor.com/m/E1XXjZ1Bq50AAAAd/skyrim-serana.gif" alt="Welcome" align="center">
